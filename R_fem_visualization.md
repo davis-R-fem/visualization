@@ -51,7 +51,7 @@ senate = ggplot(pp_res, aes(relDefRev, fit, group = status, linetype = status)) 
 # "ylim"" = sets y axis limit
 ```
 
-![](figures/aus-pp-nb.png)
+![](figures/Aus-pp-nb.png)
 
 <br>
 
